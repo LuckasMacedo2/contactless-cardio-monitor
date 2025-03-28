@@ -1,0 +1,1 @@
+Contém arquivos temporários

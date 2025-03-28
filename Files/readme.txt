@@ -1,0 +1,1 @@
+Contém arquivos utilizados pelo software
