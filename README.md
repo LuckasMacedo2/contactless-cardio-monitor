@@ -33,16 +33,18 @@ Ele funciona conforme descrito na Figura a seguir:
 
 ![image](https://github.com/user-attachments/assets/a03d8ab2-ca8a-4cde-9869-2b6ad11cc20b)
 
-a) O usuário informa seus dados e configura o sistema, por exemplo, escolhe a resolução da câmera, conforme sua preferência;
-b) Definição das regiões de interesse e o sistema captura os dados;
-c) Processamento e cálculo, o sistema adquire o sinal e o processa conforme a variável escolhida;
+a) O usuário informa seus dados e configura o sistema, por exemplo, escolhe a resolução da câmera, conforme sua preferência;\
+b) Definição das regiões de interesse e o sistema captura os dados;\
+c) Processamento e cálculo, o sistema adquire o sinal e o processa conforme a variável escolhida;\
 d) Caso o usuário tenha escolhido a opção salvar vídeo, no menu de configurações do sistema o sistema salva o vídeo e gera um relatório contendo as informações do usuário e a variável calculada.
 
 ---
 
 ### **Requisitos**
 
-* Software Matlab R2018a ou superior com suporte: “USB Webcam” (Matlab Addons) e “OS Generic Video Interface” (Matlab Addons);
+* Software Matlab R2018a ou superior com suporte:
+  - “USB Webcam” (Matlab Addons)
+  - “OS Generic Video Interface” (Matlab Addons);
 * Webcam;
 * Pacote Microsoft Word;
 * Leitor de PDF;
